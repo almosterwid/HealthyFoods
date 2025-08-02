@@ -8,6 +8,6 @@ In order to run this project , you can use the below commands
 
 3. Use ```go run server.go``` to run the API.
 
-4. Open ui Directory in another Terminal, and you can use ```npm insall``` and ```npm run``` to run Frontend Code.
+4. Open ui Directory in another Terminal, and you can use ```npm insall``` and ```npm start``` to run Frontend Code.
 
 
