@@ -2,6 +2,8 @@
 
 In order to run this project , you can use the below commands
 
+Before Staring, please make sure you have the database and table in Postgresql.
+
 1. Go to the server Directory, and update your Postgresql Database Information in ```config.json```
 
 2. To run API, you have to install the go packages, and you can see the packages in ```server.go```
@@ -11,3 +13,5 @@ In order to run this project , you can use the below commands
 4. Open ui Directory in another Terminal, and you can use ```npm insall``` and ```npm start``` to run Frontend Code.
 
 
+## Data Source
+https://www.kaggle.com/datasets/prajwaldongre/top-100-healthiest-food-in-the-world
